@@ -26,13 +26,20 @@ Great, let's get started with building your DeFi Empire on Avalanche! Here's a d
 #### 1. Set Up Your EVM Subnet
 
 1. **Install the Avalanche CLI**:
-       ```bash
-    curl -sSfL https://raw.githubusercontent.com/ava-labs/avalanche-cli/main/scripts/install.sh | sh -s
-   ```
+   
+## Installation
+
+To install the required dependencies and set up the environment, follow these steps:
+
+1. Install the Avalanche CLI by running the following command:
 
    ```bash
-  export PATH=~/bin:$PATH
-   ```
+   curl -sSfL https://raw.githubusercontent.com/ava-labs/avalanche-cli/main/scripts/install.sh | sh -s
+
+2.Add the Avalanche CLI to your system's PATH by running:
+
+ export PATH=~/bin:$PATH
+
     
       
 3. **Create a New EVM Subnet**:
