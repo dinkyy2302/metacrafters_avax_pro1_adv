@@ -38,6 +38,7 @@ To install the required dependencies and set up the environment, follow these st
 
 2.Add the Avalanche CLI to your system's PATH by running:
 
+ ```bash
  export PATH=~/bin:$PATH
 
     
